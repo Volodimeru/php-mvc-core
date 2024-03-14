@@ -1,0 +1,15 @@
+{
+    "name": "volodimeru/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "volodimeru\\phpmvc\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "VOLODIMERU",
+            "email": "vladi.dogonadze@gmail.com"
+        }
+    ],
+    "require": {}
+}
